@@ -39,7 +39,7 @@ mongoose
     process.env.DBS,
   )
   .then(() => {
-    app.listen(3000);
+    app.listen(process.env.PORT);
   })
   .catch((err) => {
     console.log(err);
