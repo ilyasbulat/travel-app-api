@@ -1,0 +1,386 @@
+{
+  "italy": [
+    {
+      "countryId": "604e3e0159db0b4c992da52f",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/italy/colosseum.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "The Colosseum (/ˌkɒləˈsiːəm/ KOL-ə-SEE-əm; Italian: Colosseo [kolosˈsɛːo]), is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum and is the largest ancient amphitheatre ever built, and is still the largest standing amphitheater in the world today, despite its age. Construction began under the emperor Vespasian (r. 69–79 AD) in 72 and was completed in AD 80 under his successor and heir, Titus (r. 79–81). Further modifications were made during the reign of Domitian (r. 81–96). The three emperors that were patrons of the work are known as the Flavian dynasty, and the amphitheatre was named the Flavian Amphitheatre (Latin: Amphitheatrum Flavium; Italian: Anfiteatro Flavio [aɱfiteˈaːtro ˈflaːvjo]) by later classicists and archaeologists for its association with their family name (Flavius).",
+          "name": "The Colosseum"
+        },
+        {
+          "lang": "ru",
+          "description": "Колизе́й (лат. Сolosseum), или амфитеатр Флавиев (лат. Amphitheatrum Flavium) — амфитеатр, памятник архитектуры Древнего Рима, наиболее известное и одно из самых грандиозных сооружений Древнего мира, сохранившихся до нашего времени. Находится в Риме, в низине между Эсквилинским, Палатинским и Целиевым холмами.  Строительство самого большого амфитеатра античного мира, вместимостью свыше 50 тыс. человек, велось на протяжении восьми лет как коллективное сооружение императоров династии Флавиев. Его начали строить в 72 году н. э. при императоре Веспасиане, а в 80 году н. э. амфитеатр был освящён императором Титом. Амфитеатр расположился на том месте, где был пруд, относившийся к Золотому дому Нерона.",
+          "name": "Колизей"
+        },
+        {
+          "lang": "fr",
+          "description": "Le Colisée, (Colosseo en italien) à l'origine amphithéâtre Flavien (amphitheatrum Flavium en latin), est un immense amphithéâtre ovoïde situé dans le centre de la ville de Rome, entre l'Esquilin et le Cælius, le plus grand jamais construit dans l'Empire romain. Il est l'une des plus grandes œuvres de l'architecture et de l'ingénierie romaines.",
+          "name": "Le Colisée"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3e0159db0b4c992da52f",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/italy/pisa.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "The Leaning Tower of Pisa (Italian: torre pendente di Pisa) or simply the Tower of Pisa (torre di Pisa [ˈtorre di ˈpiːza; ˈpiːsa][1]) is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation. The tower is situated behind the Pisa Cathedral and is the third-oldest structure in the city's Cathedral Square (Piazza del Duomo), after the cathedral and the Pisa Baptistry.",
+          "name": "The Leaning Tower of Pisa"
+        },
+        {
+          "lang": "ru",
+          "description": "Пиза́нская башня (итал. Torre pendente di Pisa) — колокольная башня, часть ансамбля городского собора Санта-Мария-Ассунта (Пизанский собор) в городе Пиза, получившая всемирную известность благодаря непреднамеренному наклону.",
+          "name": "Пиза́нская башня"
+        },
+        {
+          "lang": "fr",
+          "description": "La tour de Pise (torre di Pisa en italien) est le campanile de la cathédrale Notre-Dame de l’Assomption de Pise, en Toscane (Italie). Elle est située à proximité du chevet de la cathédrale et fait partie des monuments de la piazza dei Miracoli (la « place des Miracles »), inscrit au patrimoine mondial de l'UNESCO. Sa construction débuta en 1173. Mondialement connue, elle est un des symboles de l’Italie et l’emblème de la ville de Pise.",
+          "name": "La tour de Pise"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3e0159db0b4c992da52f",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/italy/pompeii.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "Pompeii (/pɒmˈpeɪ(i)/, Latin: [pɔmˈpei̯iː]) was an ancient city located in what is now the comune of Pompei near Naples in the Campania region of Italy. Pompeii, along with Herculaneum and many villas in the surrounding area (e.g. at Boscoreale, Stabiae), was buried under 4 to 6 m (13 to 20 ft) of volcanic ash and pumice in the eruption of Mount Vesuvius in AD 79.",
+          "name": "Pompeii"
+        },
+        {
+          "lang": "ru",
+          "description": "Помпе́и (лат. Pompeii, итал. Pompei, неап. Pompei; греч. Πομπηία) — древнеримский город недалеко от Неаполя, в регионе Кампания, погребённый под слоем вулканического пепла в результате извержения Везувия в 79 году н. э. Сейчас — музей под открытым небом. Внесён в Список Всемирного наследия ЮНЕСКО.",
+          "name": "Помпе́и"
+        },
+        {
+          "lang": "fr",
+          "description": "Pompéi (Pompeii en latin et Pompei en italien) est une ville et cité antique située dans la région italienne de Campanie. Elle est célèbre pour avoir été ensevelie lors d'une éruption du Vésuve, volcan voisin de quelques kilomètres, au cours de l'automne 79 ap. J.-C.",
+          "name": "Pompéi"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3e0159db0b4c992da52f",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/italy/cathedral.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "Florence Cathedral, formally the Cattedrale di Santa Maria del Fiore (Italian pronunciation: [katteˈdraːle di ˈsanta maˈriːa del ˈfjoːre]; in English 'Cathedral of Saint Mary of the Flower'), is the cathedral of Florence, Italy (Italian: Duomo di Firenze). It was begun in 1296 in the Gothic style to a design of Arnolfo di Cambio and was structurally completed by 1436, with the dome engineered by Filippo Brunelleschi.[1] The exterior of the basilica is faced with polychrome marble panels in various shades of green and pink, bordered by white, and has an elaborate 19th-century Gothic Revival façade by Emilio De Fabris.",
+          "name": "Florence Cathedral"
+        },
+        {
+          "lang": "ru",
+          "description": "Собор Санта-Мария-дель-Фьоре (итал. La Cattedrale di Santa Maria del Fiore — собор Святой Марии в цветах) — кафедральный собор во Флоренции, самое знаменитое из архитектурных сооружений флорентийского кватроченто. Находится в центре города, на Соборной площади.",
+          "name": "Собор Санта-Мария-дель-Фьоре"
+        },
+        {
+          "lang": "fr",
+          "description": "La cathédrale Santa Maria del Fiore (« Sainte Marie de la Fleur », baptisée ainsi en rapport au Lys de Florence ou le Duomo) est la cathédrale/dôme du xiiie siècle de l'archidiocèse de Florence à Florence en Toscane (Italie).",
+          "name": "La cathédrale Santa Maria del Fiore"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3e0159db0b4c992da52f",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/italy/piazza.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "Piazza San Marco (Italian pronunciation: [ˈpjattsa sam ˈmarko]; Venetian: Piasa San Marco), often known in English as St Mark's Square, is the principal public square of Venice, Italy, where it is generally known just as la Piazza ('the Square'). All other urban spaces in the city (except the Piazzetta and the Piazzale Roma) are called campi ('fields'). ",
+          "name": "Piazza San Marco"
+        },
+        {
+          "lang": "ru",
+          "description": "Площадь Святого Марка (итал. Piazza San Marco) — главная городская площадь Венеции, Италия. Логически состоит из двух частей: Пьяцетты — площадки от Гранд-канала до колокольни, и непосредственно Пьяццы (площади).",
+          "name": "Площадь Святого Марка"
+        },
+        {
+          "lang": "fr",
+          "description": "La place Saint-Marc (du nom de l'évangéliste, protecteur chrétien de Venise, saint Marc) se situe au bord du Grand Canal et constitue le cœur de la ville de Venise. On y trouve la basilique Saint-Marc, le campanile de Saint-Marc et le palais des Doges.",
+          "name": "La place Saint-Marc"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3e0159db0b4c992da52f",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/italy/vatican.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "The Vatican Museums (Italian: Musei Vaticani; Latin: Musea Vaticana) are the public art and sculpture museums in the Vatican City. They display works from the immense collection amassed by the Catholic Church and the papacy throughout the centuries including several of the most renowned Roman sculptures and most important masterpieces of Renaissance art in the world. The museums contain roughly 70,000 works, of which 20,000 are on display, and currently employ 640 people who work in 40 different administrative, scholarly, and restoration departments.",
+          "name": "The Vatican Museums"
+        },
+        {
+          "lang": "ru",
+          "description": "Музеи Ватикана (итал. Musei Vaticani) — комплекс музеев, расположенных на территории государства Ватикан. Их коллекции созданы римскими папами и содержат художественные работы классических мастеров, включая произведения эпохи Возрождения.",
+          "name": "Музеи Ватикана"
+        },
+        {
+          "lang": "fr",
+          "description": "Les Musées du Vatican constituent un ensemble muséal situé au Vatican. Il regroupe douze musées, ce qui représente cinq galeries et 1 400 salles. L'ensemble abrite l'une des plus grandes collections d'art dans le monde, car il expose la vaste collection d'œuvres d'art, notamment peintures et sculptures, rassemblées au fil des siècles par les papes, surtout à l'époque des États pontificaux (jusqu'en 1870), et par la suite l'institution même des Musées du Vatican. Les musées sont en partie hébergés dans le Palais du Vatican.",
+          "name": "Les Musées du Vatican"
+        }
+      ]
+    }
+  ],
+  "england": [
+    {
+      "countryId": "604e3e7059db0b4c992da530",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/uk/stonehenge.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "Stonehenge is a prehistoric monument on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of an outer ring of vertical Sarsen standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones. Inside is a ring of smaller bluestones. Inside these are free-standing trilithons, two bulkier vertical Sarsens joined by one lintel. The whole monument, now ruinous, is oriented towards the sunrise on the summer solstice. The stones are set within earthworks in the middle of the most dense complex of Neolithic and Bronze Age monuments in England, including several hundred tumuli (burial mounds).[1]",
+          "name": "Stonehenge"
+        },
+        {
+          "lang": "ru",
+          "description": "Стоунхендж, Стонхендж[7] (англ. Stonehenge [ˈstəʊnˌhendʒ]) — внесённое в список Всемирного наследия каменное мегалитическое сооружение (кромлех) в графстве Уилтшир (Англия). Находится примерно в 130 км к юго-западу от Лондона, примерно в 3,2 км к западу от Эймсбери и в 13 км к северу от Солсбери.",
+          "name": "Стоунхендж"
+        },
+        {
+          "lang": "fr",
+          "description": "Stonehenge (prononcé : [stəʊnˈhɛndʒ]) est un monument mégalithique composé d'un ensemble de structures circulaires concentriques, érigé entre -2800 et -11001, du Néolithique à l'âge du bronze. Il est situé à treize kilomètres au nord de Salisbury, et à quatre kilomètres à l'ouest d'Amesbury (comté du Wiltshire, en Angleterre).",
+          "name": "Stonehenge"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3e7059db0b4c992da530",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/uk/tower.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "The Tower of London, officially Her Majesty's Royal Palace and Fortress of the Tower of London, is a historic castle on the north bank of the River Thames in central London. It lies within the London Borough of Tower Hamlets, which is separated from the eastern edge of the square mile of the City of London by the open space known as Tower Hill. It was founded towards the end of 1066 as part of the Norman Conquest. The White Tower, which gives the entire castle its name, was built by William the Conqueror in 1078 and was a resented symbol of oppression, inflicted upon London by the new ruling elite.",
+          "name": "The Tower of London"
+        },
+        {
+          "lang": "ru",
+          "description": "Та́уэр (с англ. — «башня, крепость»), Лондонский Тауэр (англ. Her Majesty's Royal Palace and Fortress, Tower of London) — крепость, стоящая на северном берегу Темзы, исторический центр Лондона, одно из старейших сооружений Англии и один из главных символов Великобритании, занимающий особое место в истории английской нации. Как писал герцог Эдинбургский в своей книге, посвященной 900-летию Тауэра, «за свою историю Лондонский Тауэр был крепостью, дворцом, хранилищем королевских драгоценностей, арсеналом, монетным двором, тюрьмой, обсерваторией, зоопарком, местом, привлекающим туристов».",
+          "name": "Та́уэр"
+        },
+        {
+          "lang": "fr",
+          "description": "La tour de Londres, en anglais Tower of Londonnb 1 est une forteresse historique située sur la rive nord de la Tamise à Londres en Angleterre à côté du Tower Bridge. La tour se trouve dans le borough londonien de Tower Hamlets situé à l'est de la Cité de Londres dans un espace appelé Tower Hill. Sa construction commença vers la fin de l'année 1066 dans le cadre de la conquête normande de l’Angleterre.",
+          "name": "La tour de Londres"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3e7059db0b4c992da530",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/uk/baths.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "The Roman Baths are a well-preserved thermae in the city of Bath, Somerset, England. A temple was constructed on the site between 60-70CE in the first few decades of Roman Britain. Its presence led to the development of the small Roman urban settlement known as Aquae Sulis around the site. The Roman baths—designed for public bathing—were used until the end of Roman rule in Britain in the 5th Century CE. According to the Anglo-Saxon Chronicle, the original Roman baths were in ruins a century later. The area around the natural springs was redeveloped several times during the Early and Late Middle Ages.",
+          "name": "The Roman Baths"
+        },
+        {
+          "lang": "ru",
+          "description": "Римские бани - это хорошо сохранившиеся парилки в городе Бат, графство Сомерсет, Англия. Храм был построен на этом месте между 60-70 годами нашей эры в первые несколько десятилетий римской Британии. Его присутствие привело к развитию небольшого римского городского поселения, известного как Aquae Sulis, вокруг этого места. Римские бани, предназначенные для общественных купаний, использовались до конца римского правления в Британии в 5 веке нашей эры. Согласно англосаксонским хроникам, первоначальные римские бани были разрушены столетие спустя. Территория вокруг природных источников несколько раз перестраивалась в период раннего и позднего средневековья.",
+          "name": "Римские бани"
+        },
+        {
+          "lang": "fr",
+          "description": "Le complexe des thermes de Bath est un site d'intérêt historique dans la ville anglaise de Bath. Le lieu est un site de baignade publique romain bien conservé.",
+          "name": "Le complexe des thermes de Bath"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3e7059db0b4c992da530",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/uk/museum.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "The British Museum, in the Bloomsbury area of London, England, is a public institution dedicated to human history, art and culture. Its permanent collection of some eight million works is among the largest and most comprehensive in existence, having been widely collected during the era of the British Empire. It documents the story of human culture from its beginnings to the present. It was the first public national museum in the world.",
+          "name": "The British Museum"
+        },
+        {
+          "lang": "ru",
+          "description": "Британский музей (англ. the British Museum) — главный историко-археологический музей Британской империи (ныне — Великобритании) и один из крупнейших музеев в мире, второй по посещаемости, среди художественных музеев, после Лувра[3]. Находится в лондонском районе Блумсбери.",
+          "name": "Британский музей"
+        },
+        {
+          "lang": "fr",
+          "description": "Le British Museum (en français « Musée britannique », appellation couramment utilisée jusqu'au xxe siècle, mais devenue rare), est un musée de l'histoire et de la culture humaine, situé à Londres, au Royaume-Uni. Ses collections, constituées de plus de sept millions d’objets, sont parmi les plus importantes du monde et proviennent de tous les continents. Elles illustrent l’histoire humaine de ses débuts à aujourd'hui.",
+          "name": "Le British Museum"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3e7059db0b4c992da530",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/uk/сhurch.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "The Cathedral and Metropolitical Church of Saint Peter in York, commonly known as York Minster, is the cathedral of York, England, and is one of the largest of its kind in Northern Europe. The minster is the seat of the Archbishop of York, the third-highest office of the Church of England (after the monarch as Supreme Governor and the Archbishop of Canterbury), and is the mother church for the Diocese of York and the Province of York. It is run by a dean and chapter, under the Dean of York. The title 'minster' is attributed to churches established in the Anglo-Saxon period as missionary teaching churches, and serves now as an honorific title. Services in the minster are sometimes regarded as on the High Church or Anglo-Catholic end of the Anglican continuum.",
+          "name": "The Cathedral and Metropolitical Church of Saint Peter in York"
+        },
+        {
+          "lang": "ru",
+          "description": "Кафедральный городской собор святого Петра в Йорке (англ. Cathedral and Metropolitan Church of Saint Peter in York), обычно называемый Йоркским собором (англ. York Minster) — собор в английском городе Йорк, минстер, главный храм Йоркского диоцеза и Йоркской провинции, один из крупнейших готических храмов в северной Европе. В нём находится кафедра архиепископа Йоркского, третьего иерарха англиканской церкви (после монарха и архиепископа Кентерберийского). Также есть настоятель собора и капитул под общим руководством Настоятеля Йоркского, викария провинции",
+          "name": "Кафедральный городской собор святого Петра в Йорке"
+        },
+        {
+          "lang": "fr",
+          "description": "La cathédrale d'York (en anglais York Minster) est située dans la ville d'York dans le nord de l'Angleterre. C'est, devant la cathédrale d'Uppsala, le plus grand édifice gothique d'Europe du Nord, le siège de l’archevêque d'York, second dans la hiérarchie de l’Église anglicane, et la cathédrale du diocèse d'York. Elle est présidée par un doyen et un chapitre. Son appellation formelle est : « cathédrale et église métropolitaine de Saint-Pierre à York ».",
+          "name": "La cathédrale d'York"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3e7059db0b4c992da530",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/uk/chester.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "Chester Zoo is a zoo at Upton-by-Chester, in Cheshire, England. Chester Zoo was opened in 1931 by George Mottershead and his family.[2] It is one of the UK's largest zoos at 51 hectares (130 acres).[3] The zoo has a total land holding of approximately 160 hectares (400 acres).",
+          "name": "Chester Zoo"
+        },
+        {
+          "lang": "ru",
+          "description": "Честерский зоопарк англ. Chester Zoo — зоопарк в Аптон-бай-Честер, Чешир, Англия. Честерский зоопарк был создан в 1931 году Джорджем Моттершидом и членами его семьи. Это один из крупнейших зоопарков Великобритании, его площадь составляет 125 акров (51 га)",
+          "name": "Честерский зоопарк "
+        },
+        {
+          "lang": "fr",
+          "description": "Le Zoo de Chester est un parc zoologique anglais situé sur plusieurs communes des environs de Chester, près de Liverpool, dans le Cheshire. Ouvert en 1931, il est géré par une association reconnue d'utilité publique, la North of England zoological society. Il accueille en moyenne plus d'un million de visiteurs par an, héberge autour de 3 000 animauxNote 1 et s'étend sur 45 hectares.",
+          "name": "Le Zoo de Chester"
+        }
+      ]
+    }
+  ],
+  "spain": [
+    {
+      "countryId": "604e3eda59db0b4c992da532",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/spain/sagrada.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "The Basílica de la Sagrada Família (Catalan: [bəˈzilikə ðə lə səˈɣɾaðə fəˈmiljə]; Spanish: Basílica de la Sagrada Familia; 'Basilica of the Holy Family'),[4] also known as the Sagrada Família, is a large unfinished Roman Catholic minor basilica in the Eixample district of Barcelona, Catalonia, Spain. Designed by Spanish/Catalan architect Antoni Gaudí (1852–1926), his work on the building is part of a UNESCO World Heritage Site.[5] On 7 November 2010, Pope Benedict XVI consecrated the church and proclaimed it a minor basilica.",
+          "name": "The Basílica de la Sagrada Família"
+        },
+        {
+          "lang": "ru",
+          "description": "Искупительный храм Святого Семейства (кат. Temple Expiatori de la Sagrada Família — церковь в Барселоне, в районе Эшампле, строящаяся с 1882 года. Первый проект был разработан архитектором Франсиско дель Вильяр (кат. Francisco de Paula del Villar y Lozano), на место которого в конце 1883 года был приглашён Антонио Гауди, значительно изменивший первоначальный проект. По решению инициаторов строительства храма финансирование работ должно выполняться исключительно за счёт пожертвований прихожан, что является одной из причин столь длительного строительства.",
+          "name": "Искупительный храм Святого Семейства"
+        },
+        {
+          "lang": "fr",
+          "description": "La Sagrada Família, Temple Expiatori de la Sagrada Família de son nom complet en catalan, ou Templo Expiatorio de la Sagrada Familia en espagnol (en français : « temple expiatoire de la Sainte Famille ») est une basilique de Barcelone dont la construction a commencé en 1882.",
+          "name": "La Sagrada Família, Temple Expiatori de la Sagrada Família"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3eda59db0b4c992da532",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/spain/thyssen.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "The Thyssen-Bornemisza National Museum (in Spanish, the Museo Nacional Thyssen-Bornemisza (pronounced [muˈse.o ˈtisem boɾneˈmisa]),[2] named after its founder), or simply the Thyssen, is an art museum in Madrid, Spain, located near the Prado Museum on one of the city's main boulevards. It is known as part of the 'Golden Triangle of Art', which also includes the Prado and the Reina Sofia national galleries. The Thyssen-Bornemisza fills the historical gaps in its counterparts' collections: in the Prado's case this includes Italian primitives and works from the English, Dutch and German schools, while in the case of the Reina Sofia it concerns Impressionists, Expressionists, and European and American paintings from the 20th century.",
+          "name": "Thyssen-Bornemisza Museum"
+        },
+        {
+          "lang": "ru",
+          "description": "Национальный музей Тиссена-Борнемисы (исп. Museo Nacional Thyssen-Bornemisza) — до 1993 крупнейшая в мире частная картинная галерея (наряду с собранием британских монархов). Ныне государственная картинная галерея в Мадриде. Входит в «Золотой треугольник искусств» испанской столицы вместе с Прадо и Центром искусств королевы Софии.",
+          "name": "Национальный музей Тиссена-Борнемисы"
+        },
+        {
+          "lang": "fr",
+          "description": "Le musée national Thyssen-Bornemisza est un musée d'art ancien, moderne et contemporain situé à Madrid (Espagne).",
+          "name": "Le musée national Thyssen-Bornemisza"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3eda59db0b4c992da532",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/spain/seville.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "The Royal Alcázars of Seville (Spanish: Reales Alcázares de Sevilla), historically known as al-Qasr al-Muriq (Arabic: القصر المُورِق‎, The Verdant Palace)[1][2] and commonly known as the Alcázar of Seville (pronounced [alˈkaθaɾ]), is a royal palace in Seville, Spain, built for the Christian king Peter of Castile.",
+          "name": "The Royal Alcázars of Seville"
+        },
+        {
+          "lang": "ru",
+          "description": "Севи́льский Алькáсар (исп. Reales Alcázares de Sevilla) — королевский алькасар в городе Севилья (Андалусия, Испания). Изначально являлся фортом мавров, несколько раз расширялся.",
+          "name": "Севи́льский Алькáсар"
+        },
+        {
+          "lang": "fr",
+          "description": "L'alcazar de Séville (en espagnol : Real Alcázar de Sevilla, prononcé en espagnol : [alˈkaθar]) est un palais fortifié (alcazar) construit à Séville par les Omeyyades d'Espagne et modifié à plusieurs reprises pendant et après la période musulmane.",
+          "name": "L'alcazar de Séville"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3eda59db0b4c992da532",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/spain/bioparc.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "Bioparc Valencia is a 10-hectare (25-acre) zoo park in Valencia, Spain.[1] It is owned by the City Council of Valencia and designed and managed by Rainforest (a private Spanish company devoted to building and managing zoos). It has a large collection of African fauna",
+          "name": "Bioparc Valencia"
+        },
+        {
+          "lang": "ru",
+          "description": "Биопарк Валенсии - это зоопарк площадью 10 гектаров (25 акров) в Валенсии, Испания. [1] Он принадлежит городскому совету Валенсии, спроектирован и управляется Rainforest (частной испанской компанией, занимающейся строительством и управлением зоопарками). Здесь собрана большая коллекция африканской фауны.",
+          "name": "Биопарк Валенсии"
+        },
+        {
+          "lang": "fr",
+          "description": "Le Bioparc Valencia est un parc zoologique espagnol situé en Communauté valencienne, au sein du quartier Sant Pau de Valence, dans la continuité des jardins du Turia et du parc de Cabecera. Fondé en 2008, il a remplacé le Jardin zoologique de Valence, qui était situé dans les Jardins del Real (es). ",
+          "name": "Le Bioparc Valencia"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3eda59db0b4c992da532",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/spain/palma.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "The Cathedral of Santa Maria of Palma (Cathedral of St. Mary of Palma), more commonly referred to as La Seu (a title also used by many other churches), is a Gothic Roman Catholic cathedral located in Palma, Mallorca, Spain.",
+          "name": "The Cathedral of Santa Maria of Palma"
+        },
+        {
+          "lang": "ru",
+          "description": "Кафедральный собор Санта-Мария, также Ла Сеу (исп. Catedral de Santa María de Palma de Mallorca) — готический кафедральный собор епархии Мальорки, расположенный в городе Пальма-де-Мальорка, административном центре Балеарских островов (Испания). В обычной речи называется La Seu, или Sa Seu, — «Епископство».",
+          "name": "Кафедральный собор Санта-Мария"
+        },
+        {
+          "lang": "fr",
+          "description": "La cathédrale de Majorque, localement appelée Catedral-Basílica de Santa María de Palma de Mallorca, Catedral de Mallorca ou encore La Seu est le plus grand édifice religieux de l'île de Majorque et le deuxième[réf. nécessaire] d'Espagne par sa longueur (109 mètres) après la cathédrale de Séville (132 mètres).",
+          "name": "La cathédrale de Majorque"
+        }
+      ]
+    },
+    {
+      "countryId": "604e3eda59db0b4c992da532",
+      "imageUrl": "https://rs-travel-app-api.herokuapp.com/images/spain/teide.webp",
+      "localizations": [
+        {
+          "lang": "en",
+          "description": "Teide, or Mount Teide, (Spanish: El Teide, Pico del Teide, pronounced [ˈpiko ðel ˈtejðe], 'Teide Peak') is a volcano on Tenerife in the Canary Islands, Spain. Its summit (at 3,715 m (12,188 ft)) is the highest point in Spain and the highest point above sea level in the islands of the Atlantic.",
+          "name": "Mount Teide"
+        },
+        {
+          "lang": "ru",
+          "description": "Те́йде (исп. Teide) — вулкан на острове Тенерифе, муниципалитет Ла-Оротава, самая высокая точка Испании, центр Национального парка Тейде. Высота — 3718 м, относительная высота над дном Атлантического океана — 7500 м, является высочайшей вершиной в этом океане. Остров Тенерифе является третьим по объёму вулканическим островом в мире.",
+          "name": "Те́йде"
+        },
+        {
+          "lang": "fr",
+          "description": "Le Teide (en espagnol el Teide) est un stratovolcan situé sur l'île de Tenerife, dans l'archipel des îles Canaries, à l'ouest des côtes d'Afrique du Nord. D'une altitude de 3 715 m, il est le point culminant d'Espagne, le plus haut sommet dans l'océan Atlantique et la troisième plus haute structure volcanique au monde si on mesure depuis le fond marin.",
+          "name": "Le Teide"
+        }
+      ]
+    }
+  ]
+}
