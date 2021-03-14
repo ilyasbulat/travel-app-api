@@ -3,18 +3,14 @@ const Country = require('../models/country');
 const Place = require('../models/place');
 
 exports.postAddCountry = (req, res, next) => {
-  const { imageUrl } = req.body;
-  const { videoUrl } = req.body;
-  const { currency } = req.body;
-  const { capitalLocation } = req.body;
-  const { localizations } = req.body;
+  // const { imageUrl } = req.body;
+  // const { videoUrl } = req.body;
+  // const { currency } = req.body;
+  // const { capitalLocation } = req.body;
+  // const { localizations } = req.body;
 
   const country = new Country({
-    imageUrl,
-    videoUrl,
-    currency,
-    capitalLocation,
-    localizations,
+    ...req.body,
   });
   country
     .save()

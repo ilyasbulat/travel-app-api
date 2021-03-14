@@ -29,6 +29,12 @@ const countrySchema = new Schema({
     type: String,
     required: true,
   },
+  ISOCode: {
+    type: String,
+    uppercase: true,
+    unique: true,
+    required: true,
+  },
   capitalLocation: {
     type: {
       type: String,

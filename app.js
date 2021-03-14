@@ -35,9 +35,7 @@ app.use(countryRoutes);
 app.use(errorController.get404);
 
 mongoose
-  .connect(
-    process.env.DBS,
-  )
+  .connect(process.env.DBS)
   .then(() => {
     app.listen(process.env.PORT);
   })
