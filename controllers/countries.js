@@ -20,7 +20,9 @@ exports.getPlaces = (req, res, next) => {
 
   Place.find({ countryId: mongoose.Types.ObjectId(id) })
     .then((places) => {
-      console.log(id);
+      if (!places.length) {
+        res.status(404).end();
+      }
       res.send(places);
     })
     .catch((err) => {

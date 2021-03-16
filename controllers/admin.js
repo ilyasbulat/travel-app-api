@@ -3,19 +3,12 @@ const Country = require('../models/country');
 const Place = require('../models/place');
 
 exports.postAddCountry = (req, res, next) => {
-  // const { imageUrl } = req.body;
-  // const { videoUrl } = req.body;
-  // const { currency } = req.body;
-  // const { capitalLocation } = req.body;
-  // const { localizations } = req.body;
-
   const country = new Country({
     ...req.body,
   });
   country
     .save()
     .then(() => {
-      // console.log(result);
       console.log('Created Country');
       res.status(201).end();
     })
@@ -32,7 +25,6 @@ exports.postAddPlace = (req, res, next) => {
   place
     .save()
     .then(() => {
-      // console.log(result);
       console.log('Created Place');
       res.status(201).end();
     })
