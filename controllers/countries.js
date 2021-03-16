@@ -15,13 +15,27 @@ exports.getCountries = (req, res, next) => {
     });
 };
 
-exports.getCountry = (req, res, next) => {
+exports.getPlaces = (req, res, next) => {
   const { id } = req.params;
 
   Place.find({ countryId: mongoose.Types.ObjectId(id) })
     .then((places) => {
       console.log(id);
       res.send(places);
+    })
+    .catch((err) => {
+      console.log(err);
+      next();
+    });
+};
+
+exports.getCountry = (req, res, next) => {
+  const { id } = req.params;
+
+  Country.findById(id)
+    .then((country) => {
+      console.log(id);
+      res.send(country);
     })
     .catch((err) => {
       console.log(err);
