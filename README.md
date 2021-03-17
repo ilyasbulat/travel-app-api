@@ -1,3 +1,8 @@
+## Deplyed on heroku
+[https://rs-travel-app-api.herokuapp.com/countries](https://rs-travel-app-api.herokuapp.com/countries) - get all countries
+
+[https://rs-travel-app-api.herokuapp.com/countries/:id](https://rs-travel-app-api.herokuapp.com/countries:id) - get all countries sights (id=country id)
+
 ### To start this API you need environment variables:
 1. DBS - mongoDB string for connect
 2. PORT - port on which server will work
